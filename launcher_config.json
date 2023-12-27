@@ -13,7 +13,7 @@
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tiberia",
+	"clientFolder": "",
 	"newClientUrl" : "https://tiberia.com.br/tiberia-launcher/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
