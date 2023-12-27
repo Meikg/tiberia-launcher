@@ -7,12 +7,7 @@
 		{
 			"name": "assets"
 		},
-		{
-			"name": "storeimages"
-		},
-		{
-			"name": "cache"
-		},
+		
 		{
 			"name": "bin"
 		}
