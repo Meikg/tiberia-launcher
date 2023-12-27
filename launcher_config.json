@@ -11,6 +11,6 @@
         }
     ],
     "clientFolder": "",
-    "newClientUrl": "https://tiberia.com.br/tiberia-launcher/update.zip",
+    "newClientUrl": "https://github.com/Meikg/tiberia-launcher/archive/refs/tags/Tiberia-launcher.zip",
     "clientExecutable": "client.exe"
 }
