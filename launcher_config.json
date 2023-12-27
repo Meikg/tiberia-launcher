@@ -1,19 +1,16 @@
 {
 	"clientVersion": "13.21.13831",
-	"launcherVersion": "1.0",
+	"launcherVersion": "3.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
 			"name": "assets"
 		},
 		{
-			"name": "storeimages"
-		},
-		{
 			"name": "bin"
 		}
 	],
-	"clientFolder": "tibia",
+	"clientFolder": "Tiberia",
 	"newClientUrl" : "https://tiberia.com.br/tiberia-launcher/update.zip",
 	"clientExecutable": "client.exe"
 }
